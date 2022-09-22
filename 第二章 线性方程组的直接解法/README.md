@@ -1,3 +1,1 @@
-上机实验题：
-1.编程实现列主元的高斯消去法。
-2.编程实现LU分解法。
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/40480724/191757478-bc68cbca-1eb6-4ba7-ac1d-5a2653c60638.png">
